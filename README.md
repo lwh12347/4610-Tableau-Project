@@ -14,7 +14,7 @@ The columns in the data set represent product categories, import volume, country
 We chose to utilize this dataset because of its relevance to understanding economic and supply chain trends, particularly in the current global landscape where food security and international trade are relevant issues. Therefore, insights about this topic are both socially and economically significant for everyone.
 
 ### Data Manipulation
-In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables. ****INSERT SCREENSHOT
+In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables.
 <img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
 
 
@@ -23,7 +23,7 @@ In order to prepare the data for analysis, we created relationships between rele
 Relevance: The purpose of this question is to illustrate shifts in consumer demand since 2019. By analyzing trends across different food types, it reveals patterns in market dynamics, such as increasing reliance on certain products. It also shows which countries have the strongest trade relationships with the United States in regards to certain food.
 
 #### Grains
-***Screenshot
+
 Over the past five years, the United States has experienced a steady increase in grain imports, with 2022 showing the most significant year-over-year growth. This surge was primarily driven by imports from Canada, which saw a more than 25% increase compared to 2021. The data highlights the U.S.'s heavy reliance on North American countries, particularly Canada and Mexico, for its grain supply, underscoring the importance of regional trade partnerships in meeting domestic demand.
 
 #### Meats
@@ -42,7 +42,8 @@ Over the past five years, U.S. imports of grains, meats, and dairy have demonstr
 Relevance: This question addresses the economic impact of price inflation on U.S. food imports, providing insights into how market conditions, supply chain disruptions, and trade policies may have affected food prices in the past few years. By identifying the foods that fluctuate in price, consumers can better understand the volatility in the food market and its implications for food accessibility.
 
 #### Findings
-**** Screenshot
+<img width="251" alt="Tableau #5" src="https://github.com/user-attachments/assets/d23114ba-2d4a-43c9-87d9-e31610fe0dc0">
+<img width="250" alt="Tableau #6" src="https://github.com/user-attachments/assets/74509b6b-0a69-4850-b889-288528d78eb2">
 In 2023, the highest inflation rates were observed in Cocoa and Chocolate, Dairy, and Sugar and Candy. In contrast, foods like Nuts, Vegetable Oils, and Meats, which faced the highest inflation in 2022, saw significant deflation in 2023, suggesting improved market conditions. The shift in inflationary trends highlights the dynamic nature of food import markets, where certain categories recover while others face new challenges. 
 
 #### Question 2 Conclusion
