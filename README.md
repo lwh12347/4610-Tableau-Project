@@ -44,6 +44,7 @@ Relevance: This question addresses the economic impact of price inflation on U.S
 #### Findings
 <img width="251" alt="Tableau #5" src="https://github.com/user-attachments/assets/d23114ba-2d4a-43c9-87d9-e31610fe0dc0">
 <img width="250" alt="Tableau #6" src="https://github.com/user-attachments/assets/74509b6b-0a69-4850-b889-288528d78eb2">
+
 In 2023, the highest inflation rates were observed in Cocoa and Chocolate, Dairy, and Sugar and Candy. In contrast, foods like Nuts, Vegetable Oils, and Meats, which faced the highest inflation in 2022, saw significant deflation in 2023, suggesting improved market conditions. The shift in inflationary trends highlights the dynamic nature of food import markets, where certain categories recover while others face new challenges. 
 
 #### Question 2 Conclusion
