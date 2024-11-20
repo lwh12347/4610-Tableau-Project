@@ -15,7 +15,7 @@ We chose to utilize this dataset because of its relevance to understanding econo
 
 ### Data Manipulation
 In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables. ****INSERT SCREENSHOT
-![Data_Manipulation](<img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">)
+<img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
 
 
 
