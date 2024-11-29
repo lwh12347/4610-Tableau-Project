@@ -23,7 +23,7 @@ In order to prepare the data for analysis, we created relationships between rele
 Relevance: The purpose of this question is to illustrate shifts in consumer demand since 2019. By analyzing trends across different food types, it reveals patterns in market dynamics, such as increasing reliance on certain products. It also shows which countries have the strongest trade relationships with the United States in regards to certain food.
 
 #### Grains
-![Screenshot 2024-11-27 192114](https://github.com/user-attachments/assets/c8e05a3e-2e67-4567-81c8-d8b25e97dff5)
+![Screenshot 2024-11-28 210701](https://github.com/user-attachments/assets/f8ad9137-0a55-48b3-ab2d-0ec2ae495a97)
 Over the past five years, the United States has experienced a steady increase in grain imports, with 2022 showing the most significant year-over-year growth. This surge was primarily driven by imports from Canada, which saw a more than 25% increase compared to 2021. The data highlights the U.S.'s heavy reliance on North American countries, particularly Canada and Mexico, for its grain supply, underscoring the importance of regional trade partnerships in meeting domestic demand.
 
 #### Meats
