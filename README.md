@@ -3,7 +3,7 @@
 
 ## Group 2:
 Sahil Panchal - 811952439 - 
-Dru Hunt - 811481261 -  
+Dru Hunt - 811481261 -  https://github.com/lwh12347/4610-Tableau-Project/blob/main/README.md
 Yonatan Woldetenssaie - 811294688 -   
 Kent Tran - 811696100 -   
 Shaan Bhagat - 811542876 - 
