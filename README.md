@@ -23,15 +23,15 @@ In order to prepare the data for analysis, we created relationships between rele
 Relevance: The purpose of this question is to illustrate shifts in consumer demand since 2019. By analyzing trends across different food types, it reveals patterns in market dynamics, such as increasing reliance on certain products. It also shows which countries have the strongest trade relationships with the United States in regards to certain food.
 
 #### Grains
-
+![Screenshot 2024-11-27 192114](https://github.com/user-attachments/assets/c8e05a3e-2e67-4567-81c8-d8b25e97dff5)
 Over the past five years, the United States has experienced a steady increase in grain imports, with 2022 showing the most significant year-over-year growth. This surge was primarily driven by imports from Canada, which saw a more than 25% increase compared to 2021. The data highlights the U.S.'s heavy reliance on North American countries, particularly Canada and Mexico, for its grain supply, underscoring the importance of regional trade partnerships in meeting domestic demand.
 
 #### Meats
-***Screenshot
+![Screenshot 2024-11-28 213144](https://github.com/user-attachments/assets/9f489e98-f728-4b82-85c8-fd11c814a25c)
 Over the past five years the US has experienced a bell curve in the amount of meats imported, with 2022 yielding higher meat imports than 2023. We see the expected high amounts of trade with North American countries, but there exists an unexpected amount of imports from Oceanic countries such as Australia and New Zealand. 
 
 #### Dairy
-***Screenshot
+![Screenshot 2024-11-28 212846](https://github.com/user-attachments/assets/475ddcc3-569d-4e4e-8b05-b2c1f7d33875)
 Over the past five years the US has experienced a massive increase in the amount of dairy imported, with there being an over 40% increase in importation since 2020. While there is no standout country that trade these goods to us (Italy lands the top spot), a diverse array of countries engage in this trade unlike the other two products. 
 
 
