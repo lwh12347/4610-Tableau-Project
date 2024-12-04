@@ -1,12 +1,16 @@
- # 4610-Tableau-Project
+# 4610-Tableau-Project
 ## United States Food Imports Tableau
 
 ## Group 2:
-Sahil Panchal - 811952439   
-Dru Hunt - 811481261  
-Yonatan Woldetenssaie - 811294688   
-Kent Tran - 811696100 
-Shaan Bhagat - 811542876 
+Sahil Panchal - 811952439 -  https://github.com/SahilPnc/MIST-4610-Project-2/blob/main/README.md
+
+Dru Hunt - 811481261 -  https://github.com/lwh12347/4610-Tableau-Project/blob/main/README.md 
+
+Yonatan Woldetenssaie - 811294688 -   https://github.com/YonatanWoldetenssaie/MIST4610_Project_2/blob/main/README.md
+
+Kent Tran - 811696100 -   https://github.com/Kenttra/MIST-4610-Project-2/blob/main/README.md
+
+Shaan Bhagat - 811542876 - https://github.com/Shaan-Bhagat/MIST-4610-Project2/blob/main/README.md
 
 ### Project Description
 According to the USDA, the U.S. Food Imports dataset provides an annual summary of the value and volume of food and beverage imports into the United States. It reflects U.S. consumer preferences for diverse, high-quality, and convenient foods, driven by increasing wealth, ethnic diversity, and demand for tropical and gourmet products. The dataset includes import values by food group, origin, and HS (Harmonized System) codes, with over 20 years of data for tracking long-term trends. Data is sourced from the U.S. Department of Commerce, Bureau of the Census.
@@ -14,9 +18,8 @@ The columns in the data set represent product categories, import volume, country
 We chose to utilize this dataset because of its relevance to understanding economic and supply chain trends, particularly in the current global landscape where food security and international trade are relevant issues. Therefore, insights about this topic are both socially and economically significant for everyone.
 
 ### Data Manipulation
-In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables.  
- <img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
-
+In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables.
+<img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
 
 
 ### Question 1: What have been the key trends in United States food import values over the past 5 years, and do the trends differ between food types?
