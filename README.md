@@ -2,11 +2,11 @@
 ## United States Food Imports Tableau
 
 ## Group 2:
-Sahil Panchal - 811952439 -  
-Dru Hunt - 811481261 -  https://github.com/lwh12347/4610-Tableau-Project/blob/main/README.md 
-Yonatan Woldetenssaie - 811294688 -   
-Kent Tran - 811696100 -   
-Shaan Bhagat - 811542876 - 
+Sahil Panchal - 811952439   
+Dru Hunt - 811481261  
+Yonatan Woldetenssaie - 811294688   
+Kent Tran - 811696100 
+Shaan Bhagat - 811542876 
 
 ### Project Description
 According to the USDA, the U.S. Food Imports dataset provides an annual summary of the value and volume of food and beverage imports into the United States. It reflects U.S. consumer preferences for diverse, high-quality, and convenient foods, driven by increasing wealth, ethnic diversity, and demand for tropical and gourmet products. The dataset includes import values by food group, origin, and HS (Harmonized System) codes, with over 20 years of data for tracking long-term trends. Data is sourced from the U.S. Department of Commerce, Bureau of the Census.
