@@ -1,4 +1,4 @@
-# 4610-Tableau-Project
+ # 4610-Tableau-Project
 ## United States Food Imports Tableau
 
 ## Group 2:
@@ -14,8 +14,8 @@ The columns in the data set represent product categories, import volume, country
 We chose to utilize this dataset because of its relevance to understanding economic and supply chain trends, particularly in the current global landscape where food security and international trade are relevant issues. Therefore, insights about this topic are both socially and economically significant for everyone.
 
 ### Data Manipulation
-In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables.
-<img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
+In order to prepare the data for analysis, we created relationships between relevant tables for each of our questions.  Before using tableau to visualize the data it was necessary to condense the data since the set was so expansive. We did this by getting rid of redundant data in the excel pivot tables.  
+ <img width="764" alt="Tableau #1" src="https://github.com/user-attachments/assets/6ca72876-e251-4f6e-bf4c-60b363daa200">
 
 
 
